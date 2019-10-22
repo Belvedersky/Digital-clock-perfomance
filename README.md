@@ -2,7 +2,7 @@
 # Digital clock perfomance  
 Works on arduino and processing 
 Uses [Capacitive Sensing Library] and [Firmata] for change background
-![Preview](/preview.jpg)
+![Preview](https://raw.githubusercontent.com/Belvedersky/Digital-clock-perfomance/master/preview.jpg)
 Make perfomance for Bring Your Own Beamer Vol.2
 I use some abstaction video and BariolRegular and DS-DIGIT font.
 
